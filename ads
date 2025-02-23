@@ -14,17 +14,17 @@
   "yandex_native":"demo-native-app-yandex",
   "yandex_reward":"demo-rewarded-yandex",
   
-  "MaxBanner": "9957e59cd46c27df",
-  "MaxNative": "dfb4d92336784280",
-  "MaxInterstitial": "df7fd4113cfaa2de",
+  "MaxBanner": "020de432bb80579b",
+  "MaxNative": "a86f905d3d7accef",
+  "MaxInterstitial": "fe9260577fa99cf1",
   "MaxReward":"934dec764ec5257a",
-  "Maxopen":"c879b7d894984d5e",
+  "Maxopen":"1cfc47d298eb65b9",
   
-  "PriorityBanner":"yandex",
-  "PriorityNative":"yandex",
-  "PriorityReward":"yandex",
-  "PriorityOpen":"yandex",
-  "priorityInterstitial":"yandex"
+  "PriorityBanner":"max",
+  "PriorityNative":"max",
+  "PriorityReward":"max",
+  "PriorityOpen":"max",
+  "priorityInterstitial":"max"
  
 
   
